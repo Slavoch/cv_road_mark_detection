@@ -1,0 +1,6 @@
+source_rgb: "data/rgb" 
+source_mask: "data/mask"      
+destination_to_save: "data/outputs"
+
+target_size: [360,640]
+exceptions: []
